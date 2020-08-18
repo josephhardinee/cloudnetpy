@@ -52,7 +52,7 @@ continuous data processing. In the forthcoming years, Cloudnet will be one of
 the key components in ACTRIS (Aerosol, Clouds and Trace Gases Research 
 Infrastructure) [@ACTRIS_handbook], where the Cloudnet framework 
 will process gigabytes of cloud remote sensing data per day 
-in near real time. The ACTRIS RI is now in its implementation phase and 
+in near real time. ACTRIS is now in its implementation phase and 
 aims to be fully operational in 2025. 
 
 CloudnetPy is a Python implementation of the Cloudnet processing scheme. 
